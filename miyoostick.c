@@ -1,3 +1,10 @@
+// SPDX-License-Identifier: (GPL-2.0)
+/*
+ * Miyoo Flip Hacky hax hax hax Analogue uInput Helper
+ *
+ * Copyright (c) 2024 Gamma <thegammasqueeze@gmail.com>
+ */
+
 /*******************************************************************************
  * File: miyoostick.c
  *
